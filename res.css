@@ -1,0 +1,109 @@
+.navbar {
+    background-color: #DDD8B8;
+}
+
+a {
+    font-family: Pacifico;
+    color: green;
+}
+
+
+
+#information {
+    background-image: url("C:\\Users\\CHARAN\\SDC\\day-5\\background.jpg");
+    backdrop-filter: blur(60%);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: rgb(9, 79, 9);
+    padding: 100px 0px;
+}
+
+
+#info h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#info p {
+    font-size: 24px;
+    margin-bottom: 30px;
+
+}
+
+#info .button {
+    display: inline-block;
+    background-color: rgb(9, 79, 9);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+#specials {
+    background-color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.special-item {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.special-item img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.special-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.special-item p {
+    font-size: 16px;
+}
+
+#about {
+    padding-top: 50px;
+    background-color: #f2f2f2;
+    padding: 40px 0;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#about p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.button {
+    display: inline-block;
+    background-color: rgb(9, 79, 9);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: rgb(9, 79, 9);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
