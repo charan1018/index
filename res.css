@@ -10,8 +10,7 @@ a {
 
 
 #information {
-    background-image: url("background.jpg");
-    backdrop-filter: blur(60%);
+    background: url("background.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
